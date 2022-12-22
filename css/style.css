@@ -310,9 +310,9 @@ select{
         padding: 25px 50px;
     }
     .popup__content {
-        padding: 20px 50px;
+        padding: 20px 10px;
     }
     .popup__body {
-        padding: 25px 50px;
+        padding: 10px 25px;
     }
 }
