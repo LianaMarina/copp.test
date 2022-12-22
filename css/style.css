@@ -289,6 +289,9 @@ select{
     select {
         display: block;
     }
+    .popup__content {
+        padding: 40px 50px;
+    }
 }
 @media only screen and (max-width: 500px) {
     .black__line {
@@ -304,6 +307,12 @@ select{
         padding: 15px 25px;
     }
     main {
+        padding: 25px 50px;
+    }
+    .popup__content {
+        padding: 20px 50px;
+    }
+    .popup__body {
         padding: 25px 50px;
     }
 }
