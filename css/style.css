@@ -219,6 +219,7 @@ footer {
     border-radius: 10px;
     position: relative;
     font-size: 18px;
+    overflow-y: scroll;
 }
 .popup__content h2 {
     margin: 20px 0;
